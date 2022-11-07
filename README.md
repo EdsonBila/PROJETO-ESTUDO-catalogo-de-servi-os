@@ -1,1 +1,1 @@
-# PROJETO-ESTUDO-catalogo-de-servi-os
+# PROJETO-ESTUDO-catalogo-de-servicos
